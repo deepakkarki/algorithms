@@ -5,8 +5,23 @@ A collection of various data structures and algorithms implemented in Python.
 
 The project is divided as follows
 ```
-/data_structures -> collection of all the data structures
-  /name of DS -> each DS is in it's own folder and is a package (will probably have it's own test cases)
-/algorithms -> collection of all algorithms
-  /name of algo -> same as in the case of DS
+project
+│   README.md
+│   LICENSE
+│
+└───algorithms
+|   ├───Greedy algorithms
+|   │   │   1_algo_folder
+|   │   │   ...
+|   |   
+|   └───Brute force algorithms
+|   │   ...
+|
+└───data_structures
+    ├───Linked List
+    |   │ 1_ds_folder
+    |   | ...
+    |
+    ├─── Hashes
+    |   │ ...
 ```
