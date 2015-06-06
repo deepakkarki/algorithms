@@ -25,3 +25,7 @@ project
     ├─── Hashes
     |   │ ...
 ```
+
+Each Data structure/Algorithm is going to be a python package with sample test cases included. Each function will have the necessary doc string, and clear explanation of what and how the function does it. At the beginning of the file, The overview of the algorithm will be mentioned. This will make it easier to understand and reimplement the various algorithms explained in this repo.
+
+
